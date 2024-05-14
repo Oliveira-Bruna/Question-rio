@@ -41,6 +41,7 @@ li {
     border: 1px solid #ddd;
     border-radius: 5px;
     background-color: #7f37c9;
+    text-align: center;
 }
 #button {
     padding: 15px;
